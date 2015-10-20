@@ -1,0 +1,1 @@
+# Bootstrap3 Headlines Photos example
